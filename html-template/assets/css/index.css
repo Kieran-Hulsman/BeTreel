@@ -1,0 +1,16 @@
+body {
+    background-color: #ffffff;
+    color: #1c2f2f;
+}
+#title {
+    color: #1c2f2f;
+}
+#task {
+    color: #1c2f2f;   
+}
+footer#footer {
+    background-color: #d5dcdc;
+}
+li#Laurier-Engineering {
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
